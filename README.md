@@ -15,3 +15,21 @@ Objectives of the project:
 + Using a made up company, as a financial entity, as a client zero to start simulating interactions as:
     - Alter user's information.
 + Pending, will be constantly updated.
+
+
+ROADMAP:
+1. Authentication and Authorization
+
+2. Client Interaction Management
+
+3. Department and Agent Assignment
+
+4. Ticketing System
+
+5. KnowledgeBase Integration
+
+6. Database Optimization
+
+7. Statistics
+
+8. Frontend Integration (optional)
