@@ -1,4 +1,4 @@
-# Hybrid customer service platform (Chatbot + SelfService)
+# CRM (Chatbot + SelfService)
 Personalized, cost-effective and scalable customer service substitute solution.
 
 Complete solution for companies, in which interactions with customers can be uploaded to train the model, with all the current documentation and tooling for interacting with databases and platforms that companies may be using internally.
