@@ -1,0 +1,7 @@
+Flow of Data
+User Request: The user sends a request to the application (e.g., via a web browser).
+Controller: The request is handled by a controller, which processes the request and interacts with the service layer.
+Service: The service layer contains the business logic and interacts with the repository to fetch or update data.
+Repository: The repository performs the actual database operations.
+Model: The data is represented by the model classes.
+Response: The controller returns the response to the user, which is rendered by the view.
