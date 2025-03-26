@@ -11,25 +11,7 @@ Client request > Ticket created > Request summarized & communcaited to client > 
 Workflow for calls:
 Comprehend issue > Client confirmation > Request evaluated > Fulfilled
 
-Objectives of the project:
-+ Using a made up company, as a financial entity, as a client zero to start simulating interactions as:
-    - Alter user's information.
-+ Pending, will be constantly updated.
+Project will be done using Java, framework Spring boot and then Angular for the frontend.
 
 
-ROADMAP:
-1. Authentication and Authorization
 
-2. Client Interaction Management
-
-3. Department and Agent Assignment
-
-4. Ticketing System
-
-5. KnowledgeBase Integration
-
-6. Database Optimization
-
-7. Statistics
-
-8. Frontend Integration (optional)
