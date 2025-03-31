@@ -1,3 +1,5 @@
+// Represent data structure, attributes of something 
+
 package models;
 
 import javax.persistence.Entity;
